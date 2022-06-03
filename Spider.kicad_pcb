@@ -1508,7 +1508,7 @@
 
   (footprint "spider:spider_logo" (layer "F.Cu")
     (tedit 0) (tstamp 8106e159-fb99-406c-bc50-06500718779d)
-    (at 77.978 56.642)
+    (at 82.1182 54.3052)
     (property "Sheetfile" "Spider.kicad_sch")
     (property "Sheetname" "")
     (property "exclude_from_bom" "")
@@ -11295,7 +11295,7 @@
 
   (footprint "Symbol:OSHW-Logo_7.5x8mm_SilkScreen" (layer "F.Cu")
     (tedit 0) (tstamp fedd826e-74ae-4512-8096-f38aaffedb7c)
-    (at 91.2114 56.134)
+    (at 89.9414 55.2704)
     (descr "Open Source Hardware Logo")
     (tags "Logo OSHW")
     (property "Sheetfile" "Spider.kicad_sch")
@@ -12686,6 +12686,9 @@
     (effects (font (size 0.6 0.6) (thickness 0.12)))
   )
   (gr_text "L5" (at 141.915684 51.0998) (layer "F.SilkS") (tstamp 1cb48378-cc09-45e0-ac2b-6214a4d743c8)
+    (effects (font (size 0.6 0.6) (thickness 0.12)))
+  )
+  (gr_text "https://github.com/tenllado/spider" (at 89.8906 60.3758) (layer "F.SilkS") (tstamp 2be39d4a-0288-46fc-88cd-e57defc6f3ed)
     (effects (font (size 0.6 0.6) (thickness 0.12)))
   )
   (gr_text "SW1" (at 106.3448 51.0998) (layer "F.SilkS") (tstamp 2d8530d0-2ca8-4561-b1cd-6e496a5e0b3c)
